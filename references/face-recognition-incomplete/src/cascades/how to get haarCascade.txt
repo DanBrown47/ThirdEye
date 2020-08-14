@@ -1,0 +1,13 @@
+1. Getting the path to cascade
+	import cv2 in shell
+	print(cv2.__file__)
+	get the location of the file 
+	In my case, it was C:\Python\Python37\Lib\site-packages\cv2
+
+2. copy the data folder from there
+
+3. go to your project directory
+
+4. inside src, create a folder named Cascade
+
+5. paste the data folder inside the cascade folder

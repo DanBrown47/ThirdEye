@@ -1,0 +1,6 @@
+numpy==1.18.4
+opencv-python==4.3.0
+cmake==3.18.0
+dlib==19.18.0
+face-recognition==1.2.3
+db-sqlite3==0.0.1
