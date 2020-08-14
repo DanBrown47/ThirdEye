@@ -1,4 +1,12 @@
 # the-third-eye-web
+
+The project was created by
+> Ankiet Mishra
+> Dhanush PN
+> Danwnad NS
+> Nirmal George
+> Swasthik Shetty
+
 # Front End
 >  A webapp to add or dectect the suspicious persons.
 >  Make front end a little creative one
